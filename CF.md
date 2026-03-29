@@ -1,4 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
+<img src="[https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png](https://github.com/yahyazx4/Project-Data-CIH/blob/main/Capture%20d'%C3%A9cran%202025-10-11%20154629.png)" style="height:64px;margin-right:32px"/>
 
 # genere un fichier compte erendu au format md relatif au fichier excel fourni
 
